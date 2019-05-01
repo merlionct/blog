@@ -12,6 +12,7 @@ I am still wading through new developments in web design world. When I started o
 
 Now, I am older, have a day job,  and a bit slower :), so everything is going to be under construction for quite some time until I make sense of all these things.
 
+-MM
 
 [nus-ac]:	https://www.straitstimes.com/singapore/nus-team-develops-water-based-air-conditioner
 [nus-ac-2]:	https://www.eco-business.com/videos/heres-a-new-air-conditioner-that-cools-without-warming-the-planet/
